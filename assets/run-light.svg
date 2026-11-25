@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330" width="900" height="330" role="img" aria-label="A live Autopo run: a request goes to Kourosh, Mina drafts, Rashnu checks, and it waits for your yes.">
+<style>.r0{opacity:0;animation:r0 15s infinite}@keyframes r0{0%,1.33%{opacity:0;transform:translateY(6px)}3.67%,92%{opacity:1;transform:translateY(0)}97%,100%{opacity:0}}.ty{animation:ty 15s infinite}@keyframes ty{0%,3.33%{clip-path:inset(0 100% 0 0)}17.33%,100%{clip-path:inset(0 0 0 0)}}.ty{animation-timing-function:steps(52)}.r1{opacity:0;animation:r1 15s infinite}@keyframes r1{0%,20.00%{opacity:0;transform:translateY(6px)}22.33%,92%{opacity:1;transform:translateY(0)}97%,100%{opacity:0}}.r2{opacity:0;animation:r2 15s infinite}@keyframes r2{0%,29.33%{opacity:0;transform:translateY(6px)}31.67%,92%{opacity:1;transform:translateY(0)}97%,100%{opacity:0}}.pb{animation:pb 15s infinite}@keyframes pb{0%,31.33%{width:0}42.00%,100%{width:160px}}.m2{opacity:0;animation:m2 15s infinite}@keyframes m2{0%,42.00%{opacity:0;transform:translateY(6px)}44.33%,92%{opacity:1;transform:translateY(0)}97%,100%{opacity:0}}.r3{opacity:0;animation:r3 15s infinite}@keyframes r3{0%,44.00%{opacity:0;transform:translateY(6px)}46.33%,92%{opacity:1;transform:translateY(0)}97%,100%{opacity:0}}.r4{opacity:0;animation:r4 15s infinite}@keyframes r4{0%,56.00%{opacity:0;transform:translateY(6px)}58.33%,92%{opacity:1;transform:translateY(0)}97%,100%{opacity:0}}.yb{animation:yb 15s infinite}@keyframes yb{0%,66.00%{fill:transparent}66.67%,100%{fill:#3f8a24}}.yt{animation:yt 15s infinite}@keyframes yt{0%,66.00%{fill:#3f8a24}66.67%,100%{fill:#fbfdf5}}.pr{transform-origin:612px 243px;animation:pr 15s infinite}@keyframes pr{0%,64.67%{transform:scale(1)}66.00%{transform:scale(.9)}68.00%,100%{transform:scale(1)}}.r5{opacity:0;animation:r5 15s infinite}@keyframes r5{0%,70.67%{opacity:0;transform:translateY(6px)}73.00%,92%{opacity:1;transform:translateY(0)}97%,100%{opacity:0}}</style>
+<rect width="900" height="330" rx="18" fill="#f5f2ea"/>
+<rect x=".5" y=".5" width="899" height="329" rx="18" fill="none" stroke="#dfdacd"/>
+<path d="M.5 18.5a18 18 0 0 1 18-18h863a18 18 0 0 1 18 18V52H.5z" fill="#fbf9f4"/>
+<line x1="0" y1="52" x2="900" y2="52" stroke="#dfdacd"/>
+<circle cx="28" cy="26" r="5.5" fill="#dfdacd"/>
+<circle cx="46" cy="26" r="5.5" fill="#dfdacd"/>
+<circle cx="64" cy="26" r="5.5" fill="#dfdacd"/>
+<text x="450.0" y="31" text-anchor="middle" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#6b706b">autopo · live run</text>
+<circle cx="788" cy="26" r="4" fill="#3f8a24"><animate attributeName="opacity" values="1;.2;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="800" y="31" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#3f8a24">working</text>
+<g class="r0">
+<text x="40" y="104" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#6b706b">▸</text>
+<text x="62" y="104" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="700" fill="#121512">you</text>
+<text class="ty" x="170" y="104" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#121512">“turn my notes into a deck for friday&#8217;s investor call”</text>
+</g>
+<g class="r1">
+<text x="40" y="140" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#6b706b">▸</text>
+<text x="62" y="140" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="700" fill="#3f8a24">kourosh</text>
+<text x="170" y="140" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#121512">routed  →  mina · slide &amp; graphic designer</text>
+</g>
+<g class="r2">
+<text x="40" y="176" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#6b706b">▸</text>
+<text x="62" y="176" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="700" fill="#17786c">mina</text>
+<text x="170" y="176" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#121512">drafting 12 slides in your style</text>
+<rect x="460" y="166" width="160" height="6" rx="3" fill="#dfdacd"/>
+<rect class="pb" x="460" y="166" width="160" height="6" rx="3" fill="#17786c"/>
+<text class="m2" x="632" y="176" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#6b706b">38s ✓</text>
+</g>
+<g class="r3">
+<text x="40" y="212" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#6b706b">▸</text>
+<text x="62" y="212" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="700" fill="#17786c">rashnu</text>
+<text x="170" y="212" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#121512">checked 14 claims  ·  12 ✓ measured  ·  2 ≈ estimate</text>
+</g>
+<g class="r4">
+<text x="40" y="248" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#6b706b">▸</text>
+<text x="62" y="248" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="700" fill="#a86a00">decision</text>
+<rect x="168" y="232" width="118" height="22" rx="11" fill="none" stroke="#a86a00"/>
+<text x="227" y="248" text-anchor="middle" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#a86a00">needs you · T3</text>
+<text x="302" y="248" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#121512">send the deck to 3 investors?</text>
+<g class="pr"><rect class="yb" x="580" y="231" width="64" height="24" rx="7" stroke="#3f8a24" stroke-width="1.5"/>
+<text class="yt" x="612" y="248" text-anchor="middle" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="700">yes</text></g>
+</g>
+<g class="r5">
+<text x="40" y="284" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#6b706b">▸</text>
+<text x="62" y="284" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="700" fill="#3f8a24">done</text>
+<text x="170" y="284" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#3f8a24">✓ approved  ·  sent  ·  9.1k tok  ·  $0.31</text>
+</g>
+<text x="40" y="306" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#6b706b">every step, every cent. nothing final without your yes.</text>
+</svg>
